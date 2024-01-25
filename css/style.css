@@ -1,0 +1,115 @@
+/* ------- googlefont ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+
+
+
+@media only screen and (max-width: 1199px) {
+  .c_form {
+    width: 75% !important;
+  }
+
+}
+
+@media only screen and (max-width: 991px) {
+  .business_event_card {
+    margin-bottom: 24px !important;
+  }
+
+  .w_neer_img_left img {
+    width: 100% !important;
+  }
+
+  .icon_common img {
+    width: 150px !important;
+  }
+
+  .f_social_links {
+    margin-top: 24px !important;
+  }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+  .h_content_left {
+    text-align: center !important;
+    margin-bottom: 32px !important;
+  }
+
+  .card_bottom_img img {
+    width: 100% !important;
+  }
+
+  .business_event_card {
+    padding-top: 18px !important;
+  }
+
+  .w_neer_img_left img {
+    width: 300px !important;
+    margin-bottom: 32px !important;
+  }
+
+  .offer_content_left {
+    margin-bottom: 32px !important;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+  }
+
+  .offer_content_left p {
+    margin-top: 12px !important;
+  }
+
+
+  .c_form {
+    width: 100% !important;
+  }
+
+
+}
+
+@media only screen and (max-width: 575px) {
+  .card_bottom_img img {
+    width: auto !important;
+  }
+
+  .smb_card {
+    margin-bottom: 24px !important;
+  }
+
+  .footer {
+    text-align: center !important;
+  }
+
+  .f_section1 h4 {
+    width: 100% !important;
+    margin-bottom: 32px !important;
+  }
+  .f_social_links a {
+    margin-top: 16px !important;
+}
+}
+
+@media only screen and (max-width: 441px) {
+  .h_right_image img {
+    width: 100% !important;
+  }
+}
+
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+.padding_common {
+  padding: 88px 0px;
+}
+
+.contact_form {
+  background: url(../images/./c_image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  width: 100%;
+}
